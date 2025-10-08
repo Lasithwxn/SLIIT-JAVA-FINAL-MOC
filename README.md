@@ -1,68 +1,71 @@
-# SLIIT-JAVA-FINAL-MOC
-🧠 Java Practice Project
+# 🧠 SLIIT JAVA FINAL MOC
 
-Welcome to this Java Learning Project!
-This repository is designed to help you strengthen your Java programming skills through hands-on coding and logical problem solving.
+Welcome to the **SLIIT Java Final Mock Project**!  
+This repository contains Java programs designed to help you **practice, revise, and strengthen** your core Java skills before exams.
 
-🚀 What You’ll Learn
+---
 
-🔹 Methods – Learn how to write and use methods effectively.
+## 🚀 What You’ll Learn
 
-🔹 Arrays & 2D Arrays – Understand how to store and process data efficiently.
+- 🔹 Methods and Functions  
+- 🔹 Arrays and 2D Arrays  
+- 🔹 For Loops and Iterations  
+- 🔹 Scanner Class for Input  
+- 🔹 Object Creation and Class Usage  
+- 🔹 Logical Thinking and Problem Solving  
 
-🔹 For Loops – Master iteration for repeating tasks.
+---
 
-🔹 Scanner Class – Handle user input easily.
+## 🧩 Example Programs
 
-🔹 Object Creation – Learn how to create and use objects in Java.
+- 🧮 Student Data Management using Arrays  
+- 🏪 Shopping Discount Calculator  
+- 💰 Banking System (Deposits & Withdrawals)  
+- 🔢 Matrix Operations using 2D Arrays  
 
-🔹 Logical Thinking – Improve your algorithmic and problem-solving mindset.
+---
 
-🧩 Example Topics
-
-Student Data Management using Arrays
-
-Shopping Discount Calculator
-
-Bank Transaction Analyzer
-
-Matrix Operations using 2D Arrays
-
-🖥️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/JavaPracticeProject.git
+## 📂 Project Structure
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Open in your favorite IDE (like IntelliJ IDEA, Eclipse, or VS Code).
 
-Compile and run the .java files to explore each concept.
+Each `.java` file focuses on different concepts such as arrays, methods, or logical operations.
 
-🖼️ Preview Images
+---
 
-You can add images like:
+## 🖥️ How to Run
 
-📸 Program Output Screenshot
-(Show console output or a running example)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Lasithwxn/SLIIT-JAVA-FINAL-MOC.git
 
-🧮 Code Snippet Screenshot
-(Highlight a clean piece of code)
 
-📊 Diagram Image
-(Show how arrays or loops work conceptually)
+   ![Console Output Example](images/output_example.png)
+![Array Diagram](images/array_diagram.png)
 
-Example Markdown for images:
 
-![Program Output](images/output_example.png)
-![Array Example](images/array_diagram.png)
+💡 Learning Tips
 
-💡 Why This Project
+Break down each problem into smaller methods.
 
-This project is perfect for:
+Use loops wisely to reduce repetitive code.
 
-🧑‍🎓 Students learning Java basics
+Add validations for user input.
 
-💼 Beginners preparing for exams or interviews
+Comment your code for clarity.
 
-💻 Anyone looking to build a strong programming foundation
+Try modifying logic and observe how it changes the output.
+
+🎓 About
+
+This project is created as part of SLIIT Java Practical Revision.
+It focuses on improving problem-solving skills, understanding code structure, and preparing for exams.
+
+📜 License
+
+This project is open for educational use — feel free to fork, improve, and share your own versions!
+
+✍️ Author: Lasith Bandara
+
+📅 Updated: October 2025
